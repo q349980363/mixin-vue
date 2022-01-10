@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve --mode development",
+    "build": "vue-cli-service build --mode production"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "core-js": "^3.6.5",
+    "events": "^3.3.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.1",
+    "vue": "^2.6.11",
+    "vue-router": "^3.5.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
